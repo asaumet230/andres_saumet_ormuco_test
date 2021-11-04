@@ -1,0 +1,17 @@
+{
+  "name": "ormucotest",
+  "version": "1.0.0",
+  "description": "ormuco test",
+  "main": "questionA.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "andres saumet",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.0",
+    "@types/jest": "^27.0.2",
+    "babel-jest": "^27.3.1",
+    "jest": "^27.3.1"
+  }
+}
